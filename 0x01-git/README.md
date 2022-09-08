@@ -1,1 +1,1 @@
-My second commit
+Getting started on coding at alx 
